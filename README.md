@@ -28,7 +28,10 @@ Bu proje, bir araç kiralama sayfasıdır
 -burası sitenin beyni herşey buradan sağlanıyor
 
 # Gereksinimler
-
+flask==3.0.0
+flask-login==0.6.3
+flask-sqlalchemy==3.1.1
+Werkzeug==3.0.1
 
 
 
