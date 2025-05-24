@@ -27,6 +27,9 @@ Bu proje, bir araç kiralama sayfasıdır
 # Dashboard
 -burası sitenin beyni herşey buradan sağlanıyor
 
+# Kullanılan kütüphaneler
+
+
 
 
 ## Proje Yapısı
